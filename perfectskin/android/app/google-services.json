@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "603001891320",
+    "project_id": "perfectskin-3f85f",
+    "storage_bucket": "perfectskin-3f85f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603001891320:android:200240ceaf01c176680e0d",
+        "android_client_info": {
+          "package_name": "com.laura.gomezbruno.perfectskin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603001891320-5779b98umbo4750u9mq3fsgohl80iv38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrJrg07R-ebmXYTtE32ZzaMY8VQwOhRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603001891320-5779b98umbo4750u9mq3fsgohl80iv38.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "603001891320-bs7uthdvpvj355k5a1d72ecil08tso02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.laura.gomezbruno.perfectskin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
